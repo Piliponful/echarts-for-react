@@ -70,7 +70,7 @@ temp
 .idea
 .cache
 demos/assets/screenshots
-/lib
+# /lib
 /esm
 /dist
 
